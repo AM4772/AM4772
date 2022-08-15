@@ -1,4 +1,4 @@
-![Header](/icon256.png)
+![Header](/github-header.png)
 
 ### Hi there 👋
 
