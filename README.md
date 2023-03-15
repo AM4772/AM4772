@@ -11,7 +11,7 @@
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-696969?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-696969?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS](https://img.shields.io/badge/-CSS3-696969?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-696969?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-696969?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-696969?style=flat&logo=redux)
@@ -21,6 +21,7 @@
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-696969?style=flat&logo=postgreSQL)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-696969?style=flat&logo=Sequelize)
+  ![MS Access](https://img.shields.io/badge/-MS%20Access-696969?style=flat&logo=microsoftaccess&logoColor=881421)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-696969?style=flat&logo=git)
@@ -30,8 +31,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-696969?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![MS Excel](https://img.shields.io/badge/-MS%20Excel-696969?style=flat&logo=microsoftexcel&logoColor=brightgreen)
-  ![MS Access](https://img.shields.io/badge/-MS%20Access-696969?style=flat&logo=microsoftaccess&logoColor=881421)
   ![MS Word](https://img.shields.io/badge/-MS%20Word-696969?style=flat&logo=microsoftword&logoColor=5C7CFA)
+  ![MS PowerPoint](https://img.shields.io/badge/-MS%20PowerPoint-696969?style=flat&logo=microsoftpowerpoint&logoColor=FA5252)
 
 <br/>
 
