@@ -29,7 +29,9 @@
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-696969?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Access](https://img.shields.io/badge/-MSAccess-696969?style=flat&logo=#A4373A)
+  ![MS Excel](https://img.shields.io/badge/-MS%20Excel-696969?style=flat&logo=microsoftexcel&logoColor=brightgreen)
+  ![MS Access](https://img.shields.io/badge/-MS%20Access-696969?style=flat&logo=microsoftaccess&logoColor=881421)
+  ![MS Word](https://img.shields.io/badge/-MS%20Word-696969?style=flat&logo=microsoftword&logoColor=5C7CFA)
 
 <br/>
 
