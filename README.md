@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Expanding my skills by deep diving into the tech industry.
 - 🎓 &nbsp; Bachelor's Degree in Business Administration.
 - 💼 &nbsp; Exposed to many technologies in my 25+ years experience in the oil and gas industry.
-- 🌱 &nbsp; Learning more about ReactJs, Redux and NodeJs, and eager to learn new technologies.
+- 🌱 &nbsp; Learning more about JavaScript, ReactJs, Redux, NodeJs, SQL and eager to learn new technologies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
